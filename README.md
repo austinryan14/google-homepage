@@ -1,4 +1,4 @@
-Making my own Google clone via The Odin Project. Will add what I have learned after I have completed the project.
+Making my own Google clone via The Odin Project. Might add more website functionality, such as search results and link references later.
 
 Followed this video along as a tutorial to get most of the code, and added my own touches: https://www.youtube.com/watch?v=z2QTcSOXF0Q
 
