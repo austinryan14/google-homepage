@@ -7,4 +7,3 @@ Watching the video helped out a lot as on how to get started. One thing I learne
 This also got me more familiar with Grid items and tweaking the paratemers and spacings to get things just right, such as the buttons and footer elements.
 
 EDIT: Live preview available here: https://austinryan14.github.io/google-homepage/
-Would like to go back and clean up alignment with Flexbox
